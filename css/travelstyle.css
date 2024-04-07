@@ -211,7 +211,7 @@ h1{padding: 10px;
       }
     }
 
-    @media screen and (min-width: 1200px) {
+    @media screen and (min-width: 1024px) {
       nav {
         top: 0%;
         left: 0%;
